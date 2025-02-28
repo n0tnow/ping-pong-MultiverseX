@@ -5,6 +5,3 @@ dist/
 .vscode/
 .DS_Store
 
-!contract/
-!dapp/
-/
