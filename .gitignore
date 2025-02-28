@@ -1,1 +1,10 @@
+node_modules/
+build/
+dist/
+
+.vscode/
+.DS_Store
+
+!contract/
+!dapp/
 /
